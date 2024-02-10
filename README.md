@@ -1,4 +1,5 @@
-### Hi there 👋
+# 👋 Hello, I'm @chris-jeune:
+🔭 I’m currently working on an ICBM simulator and an ARINCA-429 decoder<br>👯 I’m looking to collaborate on ASIC and FPGA projects<br>🤝 I’m looking for help with Unity and Verilog<br>🌱 I’m currently honing my skills in Java, Python, CSS, C/C++, C#, Verilog/System-Verilog, RTL, Linux, and Assembly <br>💬 I'm a Computer Engineering student at Concordia University<br>📫 You can reach me on discord @chris.jeune<br>⚡ Fun fact: I love dogs (follow my dog on Instagram @choppawesome!!)
 
 <!--
 **chris-jeune/chris-jeune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
