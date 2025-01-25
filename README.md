@@ -1,5 +1,5 @@
 # 👋 Hello, I'm @chris-jeune:
-🌱 I’m currently honing my skills in Java, C/C++, C# and ARM Assembly<br>💬 I'm a Computer Engineering student at Concordia University<br>📫 You can reach me on discord @chris.jeune<br>⚡ Fun fact: I love dogs (follow my dog on Instagram @choppawesome!!)
+🌱 I’m currently honing my skills in Java, C/C++, C# and ARM Assembly<br>💬 I'm a Computer Engineering student at Concordia University<br>📫 You can reach me on discord @chris.jeune<br>
 
 
 ## 🌐 Socials:
