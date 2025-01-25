@@ -1,5 +1,5 @@
 # 👋 Hello, I'm @chris-jeune:
-🌱 I’m currently honing my skills in Java, C/C++, C# and ARM Assembly<br>💬 I'm a Computer Engineering student at Concordia University<br>📫 You can reach me on discord @chris.jeune<br>
+🌱 I’m currently honing my skills in C/C++<br>💬 I'm a Computer Engineering student at Concordia University<br>📫 You can reach me on discord @chris.jeune<br>
 
 
 ## 🌐 Socials:
