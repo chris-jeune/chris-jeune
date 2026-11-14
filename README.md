@@ -1,23 +1,31 @@
-# 👋 Hello, I'm @chris-jeune:
-🌱 I’m currently honing my skills in C/C++<br>💬 I'm a Computer Engineering student at Concordia University<br>📫 You can reach me on discord @chris.jeune<br>
+# Christian Jeune
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chris.jeune)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-jeune-ab69b0302/) 
+Computer Engineering at Concordia University, Montréal. I build backends and data pipelines, mostly in Python.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-jeune-ab69b0302/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chris.jeune)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chris-jeune&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chris-jeune&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-jeune&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## What I'm working on
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chris-jeune&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Most of my current work lives in private repositories, so here is what it is.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- **Airlytics: air-quality analytics.** I build the analytics engine that turns air sensor readings into air-health scores, exposure tracking and safety alerts, along with the backend it runs in. *Python, Django, PostgreSQL with TimescaleDB, MQTT, Docker.*
+- **PolyAI: event check-in system.** A registration and check-in platform for hackathons run by PolyAI, the AI student committee at Polytechnique Montréal. I set up the architecture, tests and deployment pipeline, then built authentication, QR tickets, the phone scanner and organiser statistics. *Python, FastAPI, PostgreSQL, GitHub Actions.*
+- **PolyAI: onboarding portal.** A portal that handles member onboarding and offboarding, with an encrypted vault for shared department credentials. My work is on server-side sessions, security hardening and one-time credential sharing links. *TypeScript, React, Node.js, PostgreSQL.*
+- **Transit Reliability Intelligence API.** A cloud service that turns Montréal STM transit feeds into route and stop reliability metrics, built with two teammates for a cloud computing course. I wrote the shared core library, the feed poller and the streaming and batch jobs. *Python, Spark, AWS (Lambda, API Gateway, DynamoDB, S3).*
 
----
-[![](https://visitcount.itsvg.in/api?id=chris-jeune&icon=0&color=0)](https://visitcount.itsvg.in)
+## Earlier projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [ARINC 429 Decoder](https://github.com/chris-jeune/Decoder-ARINC-429): decodes avionics data bus words received over UDP. *C++.*
+- [ICBM Simulator](https://github.com/chris-jeune/ICBM-SIM): a 2D missile launch and trajectory simulation. *Unity, C#.*
+- [ChatHaven](https://github.com/Dartz35/chasing21-SOEN341_Project_W25): a team chat application with channels and direct messages, built by a team of six. I was the main contributor and set up the tests and CI. *JavaScript, Firebase.*
+- [Cross-Word](https://github.com/chris-jeune/Cross-Word) and [Snake](https://github.com/chris-jeune/Snake-Game): desktop games. *Java, JavaFX.*
+
+## Stack
+
+| Area | Tools |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, SQL, C++, Java, C# |
+| Backend | Django, Django REST Framework, FastAPI, Node.js, gRPC |
+| Data | PostgreSQL, TimescaleDB, Redis, DynamoDB, Spark |
+| Cloud and tooling | Docker, GitHub Actions, AWS, Google Cloud Run |
+| Frontend | React, Tailwind CSS, HTML, CSS |
